@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjun9288&count_private=true&show_icons=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjun9288&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+my blog   
+https://velog.io/@jjun8177
