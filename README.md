@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 ## My Research Blog  
-https://velog.io/@jjun8177
+https://velog.io/@jjun_8177/posts
